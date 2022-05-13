@@ -7,4 +7,4 @@ Archivo de prueba
 4. Cuarto cambio desde local
 5. Cambio desde WSL
 6. nuevo commit desde remoto
-7
+7. otro nuevo commit desde remoto
