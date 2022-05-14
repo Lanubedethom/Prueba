@@ -9,3 +9,5 @@ Archivo de prueba
 6. nuevo commit desde remoto
 7. otro nuevo commit desde remoto
 8. nuevo cambio desde local
+9. Cambio desde una nueva ram
+10. s
